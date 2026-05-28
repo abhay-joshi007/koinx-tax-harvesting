@@ -59,7 +59,7 @@ const App: React.FC = () => {
       <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '32px 24px' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '24px' }}>
           <h1 style={{ margin: 0, fontSize: '28px', fontWeight: 800, color: text }}>Tax Harvesting</h1>
-          <a href="#" target="_blank" rel="noreferrer"
+          <a href="https://koinx.com" target="_blank" rel="noreferrer"
             style={{ color: '#2563eb', fontSize: '14px', textDecoration: 'none', fontWeight: 500 }}>How it works?</a>
         </div>
 
