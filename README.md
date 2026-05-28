@@ -8,15 +8,6 @@ A crypto tax harvesting simulator built with React and TypeScript. It helps inve
 
 ---
 
-## Screenshots
-
-<!-- Add your screenshots here -->
-| Light Mode | Dark Mode |
-|---|---|
-| ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
-
----
-
 ## What is Tax Harvesting?
 
 Tax-loss harvesting is the practice of selling assets at a loss to offset capital gains from other investments, reducing the total tax you owe. This tool lets you:
